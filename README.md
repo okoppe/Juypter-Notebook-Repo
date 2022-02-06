@@ -7,5 +7,3 @@ To update the repo:
 cd (the dirctory the repo is located in)
 git reset --hard HEAD
 git pull
-test
-test
